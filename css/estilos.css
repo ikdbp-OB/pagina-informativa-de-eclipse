@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #d38c30;
+    background-color: #453685;
     margin-bottom: 50px;
 }
 
@@ -16,8 +16,8 @@ div{
 }
 
 #menu {
-    background-color: #787195;
-    color: white;
+    background-color: #453685;
+    color: #f7941e;
 }
 
 #eclipse-logo {
@@ -31,11 +31,11 @@ div{
 }
 
 header {
-    color: #ffffff;
+    color: #f7941e;
 }
 
 #titulo {
-    color: blue;
+    color: #f7941e;
     text-align: center;
 }
 
@@ -44,6 +44,6 @@ header {
 }
 
 footer {
-    color: white;
-    background-color: #362a69;
+    color: #f7941e;
+    background-color: #453685;
 }
