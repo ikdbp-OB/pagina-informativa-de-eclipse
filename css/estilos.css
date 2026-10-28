@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+* {
+    font-family: "Michroma", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    background-color: #d38c30;
+    margin-bottom: 50px;
+}
+
+div{
+    content: 30px 30px;
+}
+
+#menu {
+    background-color: #787195;
+    color: white;
+}
+
+#eclipse-logo {
+    height: 60px;
+    width: 60px;
+}
+
+#eclipse-titulo {
+    height: 100px;
+    width: 400px;
+}
+
+header {
+    color: #ffffff;
+}
+
+#titulo {
+    color: blue;
+    text-align: center;
+}
+
+#boton {
+    border-radius: 20%;
+}
+
+footer {
+    color: white;
+    background-color: #362a69;
+}
